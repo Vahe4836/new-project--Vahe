@@ -1,8 +1,8 @@
 import React from "react";
 import style from "./Header.module.scss";
-import geo from "../../Images/Geo.png";
+import geo from "../../icons/address_icon.png";
 import mail from "../../icons/mail_icon.png";
-import tel from "../../Images/Tel.png";
+import tel from "../../icons/tel_icon.png";
 import logo from "../../Images/logo.png";
 
 export default function Header() {
