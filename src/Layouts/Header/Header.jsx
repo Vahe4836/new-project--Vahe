@@ -1,7 +1,7 @@
 import React from "react";
 import style from "./Header.module.scss";
 import geo from "../../Images/Geo.png";
-import mail from "../../Images/mail.jpg";
+import mail from "../../icons/mail_icon.png";
 import tel from "../../Images/Tel.png";
 import logo from "../../Images/logo.png";
 
